@@ -1,11 +1,11 @@
-**Gitlyser** (gitlyser.netlify.app)
+**Github-Repo Management Tool** 
 ================
 
 **Project Title** 🚀  
-Gitlyser is a comprehensive GitHub repository analyzer that provides detailed insights into repository structure, code quality, and patterns. It offers features such as repository analysis, file analysis, and smart recommendations to improve code.
+A comprehensive GitHub repository analyzer that provides detailed insights into repository structure, code quality, and patterns. It offers features such as repository analysis, file analysis, and smart recommendations to improve code.
 
 **Description** 📖 
-Gitlyser is designed to help developers and repository owners understand their codebase better, identify areas for improvement, and optimize their development workflow. With its advanced analysis capabilities, Gitlyser empowers users to make data-driven decisions and enhance the overall quality of their repositories.
+It is designed to help developers and repository owners understand their codebase better, identify areas for improvement, and optimize their development workflow. 
 
 **Features** ✅ 
 *   **Repository Analysis**: Analyze the overall structure and content of a GitHub repository.
@@ -53,12 +53,3 @@ The project consists of the following key files and directories:
 *   `server`: Server-side code (Express, Node.js).
 *   `utils`: Utility functions and helpers.
 
-**Contributing** 🤝 
-Contributions are welcome! To contribute to Gitlyser, please:
-
-1.  Fork the repository.
-2.  Create a new branch for your feature or bug fix.
-3.  Submit a pull request with a clear description of your changes.
-
-**License** 📄 
-Gitlyser is licensed under the MIT License. See [LICENSE](LICENSE) for details.
